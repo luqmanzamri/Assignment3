@@ -1,0 +1,508 @@
+*******************************************
+
+	WELCOME TO LE'TOUCH SALON 
+
+*******************************************
+ WORKING HOUR
+ Friday: closed
+ Monday - Thursday: 11 am - 9 pm
+ Sunday - Saturday : 10 am - 10 pm
+ maximum number of appointments per day is 2 
+ Please use a capital letter to fill the system
+
+Please Enter Your Name: NURIN
+Please Enter Your IC: 123456
+Please Enter Your Address: UUM
+Please Enter Your Phone Number: 123456
+Please Enter Your gender(F/M): F
+Please Enter your matric number (not a student, please enter 0) : 0
+
+Do you want to take a hair quiz and some product recommendations? (Y/N) N
+
+Do you have an appointment to cancel or extend? (Y/N) N
+
+Do you want to set an appointment at 1. home or 2. salon: 1
+
+How many services do you want to book? 1
+
+Do you want to book on 1-weekend or 2-weekday: 1
+Day: SUNDAY
+Date: 23/1
+Time (example* 10AM) : 11AM
+
+Do you want to proceed: Y
+
+
+SERVICES
+
+ 1 : Haircut 
+ 2 : Wash & Blow 
+ 3 : Chemical Work 
+ 4 : Treatment
+
+Please enter the service do you want: 2
+ 
+WASH AND BLOW: 
+
+1.Wash + Blow Dry  :			RM 25
+2.Wash + Blow Curl :			RM 30
+
+
+Please enter your choice of service: 2
+
+Wash+Blow Curl: RM 30.0
+Total discount: RM 4.5
+Do you want to proceed? Y
+
+			PERSONAL DETAILS 
+
+Name      : NURIN
+IC        : 123456
+No Matric : 0
+Gender    : F
+No.Tel    : 123456
+Address   : UUM
+
+
+**********RECEIPT**********
+
+Address: UUM
+Time and Date For Appointment :SUNDAY  11AM  23/1
+
+Wash+Blow Curl          : RM 30.0
+Transportation fee      : RM 80.0
+Total Discount          : RM-4.5
+
+
+ TOTAL price to be paid : RM105.5
+
+Thank you for your booking !
+ PS: cancel anytime
+
+
+THE CUSTOMER TOOK A HAIR QUIZ AND PURCHASE THE PRODUCT
+
+*******************************************
+
+	WELCOME TO LE'TOUCH SALON 
+
+*******************************************
+ WORKING HOUR
+ Friday : closed
+ Monday - Thursday : 11 am - 9 pm
+ Sunday - Saturday : 10 am - 10 pm
+ maximum number of appointments per day is 2 
+ Please use a capital letter to fill the system
+
+Please Enter Your Name: NURIN
+Please Enter Your IC: 1234567
+Please Enter Your Address: UUM
+Please Enter Your Phone Number: 123456
+Please Enter Your gender(F/M): F
+Please Enter your matric number (not a student, please enter 0) : 0
+
+Do you want to take a hair quiz and some product recommendations? (Y/N) Y
+
+  HAIR QUIZ  
+
+What is your hair type : 
+1. straight
+2. curl 
+3. wavy
+
+Enter your answer for question 1: 3
+
+My hair is : 
+1. natural
+2. bleached
+3. permed
+4. Straightening
+
+Enter your answer for question 2: 1
+
+What is your main hair problem: 
+1. Damaged hair
+2. Coloured hair
+3. Frizzy hair
+4. Thinning hair
+5. Dry hair 
+6. Dull hair
+
+Enter your answer for question 3: 1
+
+What is your weather ?: 
+1. sunny
+2. snowy 
+3. mix
+
+Enter your answer for question 4: 1
+
+			PERSONAL DETAILS 
+
+Name      : NURIN
+IC        : 1234567
+No Matric : 0
+Gender    : F
+No.Tel    : 123456
+Address   : UUM
+
+
+ ^^^^^ YOUR RESULT ^^^^^ 
+
+OHH NO !! your hair is damaged 
+Product recommendation: 
+Therapist damaged hair deep treatment haircare set
+Price: RM 139.0
+
+Do you want to proceed? (Y/N) Y
+
+**********RECEIPT**********
+
+
+Therapist damaged hair deep treatment hair care set  : RM  139.0
+Free delivery                                        : RM  0.0
+
+TOTAL price to be paid : RM  139.0
+
+
+Thank you for your purchase!
+
+STUDENT BOOKING 1 APPOINTMENT ON WEEKENDS
+
+*******************************************
+
+	WELCOME TO LE'TOUCH SALON 
+
+*******************************************
+ WORKING HOUR
+ Friday : closed
+ Monday - Thursday : 11 am - 9 pm
+ Sunday - Saturday : 10 am - 10 pm
+ maximum number of appointments per day is 2 
+ Please use a capital letter to fill the system
+
+Please Enter Your Name: NURIN
+Please Enter Your IC: 123456
+Please Enter Your Address: UUM
+Please Enter Your Phone Number: 123456
+Please Enter Your gender(F/M): F
+Please Enter your matric number (not a student, please enter 0) : 287957
+
+Do you want to take a hair quiz and some product recommendations? (Y/N) N
+
+Do you have an appointment to cancel or extend? (Y/N) N
+
+Do you want to set an appointment at 1. home or 2. salon: 2
+
+How many services do you want to book? 1
+
+Do you want to book on 1-weekend or 2-weekday: 1
+Day  : SUNDAY
+Date : 23/1
+Time (example* 10AM) : 11AM
+
+Do you want to proceed : Y
+
+
+SERVICES
+
+ 1 : Haircut 
+ 2 : Wash & Blow 
+ 3 : Chemical Work 
+ 4 : Treatment
+
+Please enter the service do you want : 3
+ 
+CHEMICAL WORK: 
+
+1.Colouring :			RM 75
+2.Perming   :			RM 80
+3.Rebonding :			RM 90
+4.Relaxing  :			RM 80
+
+
+Please enter your choice of service : 3
+
+Rebonding: RM 90.0
+Total discount   : RM 27.0
+
+Do you want to proceed? Y
+
+			PERSONAL DETAILS 
+
+Name      : NURIN
+IC        : 123456
+No Matric : 287957
+Gender    : F
+No.Tel    : 123456
+Address   : UUM
+
+
+**********RECEIPT**********
+
+Time and Date For Appointment :SUNDAY  11AM  23/1
+
+Rebonding              : RM  90.0
+Service fee            : RM  15.0
+Total dicount          : RM- 27.0
+
+
+TOTAL price to be paid : RM  78.0
+
+Thank you for your booking !
+ PS: cancel anytime
+
+STUDENT BOOKING 1 APPOINTMENT ON WEEKDAYS
+
+*******************************************
+
+	WELCOME TO LE'TOUCH SALON 
+
+*******************************************
+ WORKING HOUR
+ Friday : closed
+ Monday - Thursday : 11 am - 9 pm
+ Sunday - Saturday : 10 am - 10 pm
+ maximum number of appointments per day is 2 
+ Please use a capital letter to fill the system
+
+Please Enter Your Name: NURIN
+Please Enter Your IC: 123456
+Please Enter Your Address: UUM
+Please Enter Your Phone Number: 123456
+Please Enter Your gender(F/M): F
+Please Enter your matric number (not a student, please enter 0) : 287957
+
+Do you want to take a hair quiz and some product recommendations? (Y/N) N
+
+Do you have an appointment to cancel or extend? (Y/N) N
+
+Do you want to set an appointment at 1. home or 2. salon: 2
+
+How many services do you want to book? 1
+
+Do you want to book on 1-weekend or 2-weekday: 2
+Day  : TUESDAY
+Date : 23/1
+Time (example* 10AM) : 11AM
+
+Do you want to proceed : Y
+SERVICES
+
+ 1 : Haircut 
+ 2 : Wash & Blow 
+ 3 : Chemical Work 
+ 4 : Treatment
+
+Please enter the service do you want : 4
+ 
+TREATMENT: 
+
+1.Scalp Treatment  :			RM 100
+2.Relax Treatment  :			RM 115
+3.Keratin Treatment:			RM 150
+
+
+Please enter your choice of service : 3
+
+Keratin Treatment: RM 150.0
+Total discount   : RM 37.5
+
+Do you want to proceed? Y
+
+			PERSONAL DETAILS 
+
+Name      : NURIN
+IC        : 123456
+No Matric : 287957
+Gender    : F
+No.Tel    : 123456
+Address   : UUM
+
+
+**********RECEIPT**********
+
+Time and Date For Appointment :TUESDAY  11AM 23/1
+
+Keratin Treatment       : RM  150.0
+Service fee             : RM  15.0
+Total discount          : RM- 37.5
+
+
+TOTAL price to be paid : RM  127.5
+
+Thank you for your booking !
+ PS: cancel anytime
+
+
+
+
+
+THE NORMAL CUSTOMER BOOKING 2 APPOINTMENT 
+
+*******************************************
+
+	WELCOME TO LE'TOUCH SALON 
+
+*******************************************
+ WORKING HOUR
+ Friday : closed
+ Monday - Thursday : 11 am - 9 pm
+ Sunday - Saturday : 10 am - 10 pm
+ maximum number of appointments per day is 2 
+ Please use a capital letter to fill the system
+
+Please Enter Your Name: NURIN
+Please Enter Your IC: 123456
+Please Enter Your Address: UUM
+Please Enter Your Phone Number: 123456
+Please Enter Your gender(F/M): F
+Please Enter your matric number (not a student, please enter 0) : 0
+
+Do you want to take a hair quiz and some product recommendations? (Y/N) N
+
+Do you have an appointment to cancel or extend? (Y/N) N
+
+Do you want to set an appointment at 1.home or 2.salon: 2
+
+How many services do you want to book? 2
+
+Do you want to book on 1-weekend or 2-weekday : 1
+Day  : SATURDAY
+Date : 23/1
+Time (example* 10AM) : 11AM
+
+Do you want to proceed : Y
+
+
+			PERSONAL DETAILS 
+
+Name      : NURIN
+IC        : 123456
+No Matric : 0
+Gender    : F
+No.Tel    : 123456
+Address   : UUM
+
+
+SERVICES
+
+ 1 : Haircut 
+ 2 : Wash & Blow 
+ 3 : Chemical Work 
+ 4 : Treatment
+
+Please enter the service do you want : 3
+ 
+CHEMICAL WORK: 
+
+1.Colouring :			RM 75
+2.Perming   :			RM 80
+3.Rebonding :			RM 90
+4.Relaxing  :			RM 80
+
+
+Please enter your choice of service : 1
+
+Colouring: RM 75.0
+
+Do you want to proceed? Y
+
+**********RECEIPT**********
+
+Time and Date For Appointment :SATURDAY  11AM  23/1
+
+Colouring              : RM 75.0
+Service fee            : RM 15.0
+
+
+TOTAL price to be paid : RM 90.0
+
+Thank you for your booking !
+ PS: cancel anytime
+
+SERVICES
+
+ 1 : Haircut 
+ 2 : Wash & Blow 
+ 3 : Chemical Work 
+ 4 : Treatment
+
+Please enter the service do you want : 4
+ 
+TREATMENT: 
+
+1.Scalp Treatment  :			RM 100
+2.Relax Treatment  :			RM 115
+3.Keratin Treatment:			RM 150
+
+
+Please enter your choice of service : 1
+
+Scalp Treatment: RM 100.0
+
+Do you want to proceed? Y
+
+**********RECEIPT**********
+
+Time and Date For Appointment :SATURDAY  11AM  23/1
+
+Scalp Treatment        : RM 100.0
+Service fee            : RM 15.0
+
+
+TOTAL price to be paid : RM 115.0
+
+Thank you for your booking !
+ PS: cancel anytime
+
+THE CUSTOMER WANTS TO EXTEND THE APPOINTMENT
+
+*******************************************
+
+	WELCOME TO LE'TOUCH SALON 
+
+*******************************************
+ WORKING HOUR
+ Friday : closed
+ Monday - Thursday : 11 am - 9 pm
+ Sunday - Saturday : 10 am - 10 pm
+ maximum number of appointments per day is 2 
+ Please use a capital letter to fill the system
+
+Please Enter Your Name: NURIN
+Please Enter Your IC: 123456
+Please Enter Your Address: UUM
+Please Enter Your Phone Number: 123456
+Please Enter Your gender(F/M): F
+Please Enter your matric number (not a student, please enter 0) : 0
+
+Do you want to take a hair quiz and some product recommendations? (Y/N) N
+
+Do you have an appointment to cancel or extend? (Y/N) Y
+
+1.Cancel the appointment 
+2.Extend the appointment
+
+Please enter your choice: 2
+Please set again your next appointment 
+Date : 26/1
+Time (example* 10AM) : 4PM
+Day  : WEDNESDAY
+
+**********RECEIPT**********
+
+Time and Date For the new Appointment :WEDNESDAY  4PM  26/1
+
+
+			PERSONAL DETAILS 
+
+Name      : NURIN
+IC        : 123456
+No Matric : 0
+Gender    : F
+No.Tel    : 123456
+Address   : UUM
+
+Thank you for your booking !
+ ps: cancel anytime
